@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @williamli890
 - 👀 I’m interested in ... educate people
 - 🌱 I’m currently learning ... digital marketing
-- 💞️ I’m looking to collaborate on ... thesis
-- 📫 How to reach me ... on my thesis help work
+- 💞️ I’m looking to collaborate on ... thesis writing
+- 
 -
 
 <!---
